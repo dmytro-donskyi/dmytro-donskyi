@@ -1,4 +1,4 @@
-# Hi, I'm Dmitriy Donskoy 👋
+# Hi, I'm Dmytro Donskyi 👋
 ### Senior Software Architect & Code Reliability Engineer
 
 I design and harden high-assurance backend systems, eliminate technical debt, and build deterministic automated test suites for mission-critical Python applications.
